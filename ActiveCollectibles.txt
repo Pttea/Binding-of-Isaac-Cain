@@ -1,0 +1,1240 @@
+ | {{i|
+The Bible}}
+ | 33
+ | {{Bag of crafting recipe|1|1|1|12|12|12|12|15}}
+ | {{Bag of crafting recipe|8|8|8|8|8|8|1|2}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|2|9}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|21|21}}
+ |-
+ | {{i|
+The Book of Belial}}
+ | 34
+ | {{Bag of crafting recipe|8|2|2|9|9|9|9|3}}
+ | {{Bag of crafting recipe|15|2|2|2|2|2|21|3}}
+ | {{Bag of crafting recipe|1|1|12|12|2|2|3|11}}
+ | {{Bag of crafting recipe|1|12|12|12|21|21|3|11}}
+ |-
+ | {{i|
+The Necronomicon}}
+ | 35
+ | {{Bag of crafting recipe|12|12|12|12|12|12|12|3}}
+ | {{Bag of crafting recipe|1|1|12|12|12|12|15|3}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|9|6}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|22|3}}
+ |-
+ | {{i|
+The Poop}}
+ | 36
+ | {{Bag of crafting recipe|8|1|12|15|15|15|22|22}}
+ | {{Bag of crafting recipe|1|1|1|1|1|15|9|21}}
+ | {{Bag of crafting recipe|8|8|8|8|1|2|21|21}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|15|4}}
+ |-
+ | {{i|
+Mr. Boom}}
+ | 37
+ | {{Bag of crafting recipe|8|8|8|8|8|12|12|21}}
+ | {{Bag of crafting recipe|8|1|1|15|15|15|15|2}}
+ | {{Bag of crafting recipe|8|15|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|1|1|12|15|9|21}}
+ |-
+ | {{i|
+Mom's Bra}}
+ | 39
+ | {{Bag of crafting recipe|8|8|1|12|15|15|2|22}}
+ | {{Bag of crafting recipe|8|8|8|12|12|21|21|22}}
+ | {{Bag of crafting recipe|8|1|12|12|15|2|2|22}}
+ | {{Bag of crafting recipe|12|15|15|15|15|2|21|21}}
+ |-
+ | {{i|
+Kamikaze!}}
+ | 40
+ | {{Bag of crafting recipe|8|1|1|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|1|12|15|15|21|21|21}}
+ | {{Bag of crafting recipe|1|1|15|15|15|21|21|22}}
+ | {{Bag of crafting recipe|8|8|15|21|21|21|21|21}}
+ |-
+ | {{i|
+Mom's Pad}}
+ | 41
+ | {{Bag of crafting recipe|8|8|8|12|12|12|15|15}}
+ | {{Bag of crafting recipe|8|1|1|15|21|21|22|22}}
+ | {{Bag of crafting recipe|8|1|1|1|1|1|21|10}}
+ | {{Bag of crafting recipe|1|1|1|1|1|1|21|5}}
+ |-
+ | {{i|
+Bob's Rotten Head}}
+ | 42
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|21}}
+ | {{Bag of crafting recipe|8|8|8|12|12|15|2|9}}
+ | {{Bag of crafting recipe|8|1|12|15|15|15|21|21}}
+ | {{Bag of crafting recipe|8|1|1|12|12|15|21|22}}
+ |-
+ | {{i|
+Teleport}}
+ | 44
+ | {{Bag of crafting recipe|1|1|1|1|12|15|22|22}}
+ | {{Bag of crafting recipe|8|1|1|1|15|21|21|22}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|7|23}}
+ | {{Bag of crafting recipe|8|8|12|21|22|22|18|18}}
+ |-
+ | {{i|
+Yum Heart}}
+ | 45
+ | {{Bag of crafting recipe|8|8|8|8|1|1|1|9}}
+ | {{Bag of crafting recipe|8|8|1|1|1|1|1|2}}
+ | {{Bag of crafting recipe|8|1|1|1|1|15|15|22}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|15|22}}
+ |-
+ | {{i|
+Doctor's Remote}}
+ | 47
+ | {{Bag of crafting recipe|8|1|1|1|1|12|12|12}}
+ | {{Bag of crafting recipe|1|1|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|1|12|12|12|15|9|21}}
+ | {{Bag of crafting recipe|8|8|1|1|12|9|21|22}}
+ |-
+ | {{i|
+Shoop da Whoop!}}
+ | 49
+ | {{Bag of crafting recipe|8|1|1|1|1|1|2|9}}
+ | {{Bag of crafting recipe|8|1|12|15|15|15|9|9}}
+ | {{Bag of crafting recipe|1|12|12|15|15|15|9|22}}
+ | {{Bag of crafting recipe|12|12|15|15|15|15|21|21}}
+ |-
+ | {{i|
+Lemon Mishap}}
+ | 56
+ | {{Bag of crafting recipe|8|8|8|8|12|2|2|21}}
+ | {{Bag of crafting recipe|8|8|8|1|1|9|22|22}}
+ | {{Bag of crafting recipe|1|1|1|1|15|2|2|9}}
+ | {{Bag of crafting recipe|1|1|1|15|15|2|9|9}}
+ |-
+ | {{i|
+Book of Shadows}}
+ | 58
+ | {{Bag of crafting recipe|8|8|8|8|8|8|1|15}}
+ | {{Bag of crafting recipe|8|12|12|12|12|15|15|22}}
+ | {{Bag of crafting recipe|8|1|1|1|1|15|9|22}}
+ | {{Bag of crafting recipe|1|1|1|1|15|9|9|21}}
+ |-
+ | {{i|
+Anarchist Cookbook}}
+ | 65
+ | {{Bag of crafting recipe|8|8|1|1|1|1|1|12}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|2|9}}
+ | {{Bag of crafting recipe|8|8|8|1|15|2|21|21}}
+ | {{Bag of crafting recipe|8|1|12|12|15|2|2|21}}
+ |-
+ | {{i|
+The Hourglass}}
+ | 66
+ | {{Bag of crafting recipe|8|8|12|12|12|12|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|8|8|2|21}}
+ | {{Bag of crafting recipe|8|8|1|12|12|15|9|21}}
+ | {{Bag of crafting recipe|8|8|1|12|12|12|2|9}}
+ |-
+ | {{i|
+My Little Unicorn}}
+ | 77
+ | {{Bag of crafting recipe|8|8|8|1|1|1|1|1}}
+ | {{Bag of crafting recipe|8|8|8|12|15|15|2|9}}
+ | {{Bag of crafting recipe|12|12|15|15|15|15|2|21}}
+ | {{Bag of crafting recipe|8|8|8|1|2|21|21|22}}
+ |-
+ | {{i|
+Book of Revelations}}
+ | 78
+ | {{Bag of crafting recipe|1|12|15|15|15|2|2|22}}
+ | {{Bag of crafting recipe|12|15|2|2|9|9|9|21}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|2|5}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|22|11}}
+ |-
+ | {{i|
+The Nail}}
+ | 83
+ | {{Bag of crafting recipe|1|15|2|2|2|21|22|3}}
+ | {{Bag of crafting recipe|12|2|2|2|9|22|22|3}}
+ | {{Bag of crafting recipe|1|12|12|12|15|15|3|11}}
+ | {{Bag of crafting recipe|8|12|12|15|9|21|3|11}}
+ |-
+ | {{i|
+We Need To Go Deeper!}}
+ | 84
+ | {{Bag of crafting recipe|8|8|8|8|15|15|15|3}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|12|3}}
+ | {{Bag of crafting recipe|1|12|12|12|15|15|15|3}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|22|6}}
+ |-
+ | {{i|
+Deck of Cards}}
+ | 85
+ | {{Bag of crafting recipe|8|8|8|8|8|12|12|22}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|15|21}}
+ | {{Bag of crafting recipe|8|1|1|1|12|15|15|21}}
+ | {{Bag of crafting recipe|8|1|1|12|15|15|15|22}}
+ |-
+ | {{i|
+Monstro's Tooth}}
+ | 86
+ | {{Bag of crafting recipe|8|8|8|1|15|15|2|21}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|21|22}}
+ | {{Bag of crafting recipe|8|8|1|1|12|22|22|22}}
+ | {{Bag of crafting recipe|8|1|12|12|12|2|9|9}}
+ |-
+ | {{i|
+The Gamekid}}
+ | 93
+ | {{Bag of crafting recipe|8|8|1|1|12|12|12|15}}
+ | {{Bag of crafting recipe|8|12|12|12|15|15|15|9}}
+ | {{Bag of crafting recipe|8|12|12|12|12|15|9|21}}
+ | {{Bag of crafting recipe|8|8|1|1|15|2|9|21}}
+ |-
+ | {{i|
+The Book of Sin}}
+ | 97
+ | {{Bag of crafting recipe|1|1|12|12|15|15|15|2}}
+ | {{Bag of crafting recipe|8|1|15|15|15|15|2|9}}
+ | {{Bag of crafting recipe|1|1|1|12|15|15|9|9}}
+ | {{Bag of crafting recipe|8|8|1|1|1|22|22|22}}
+ |-
+ | {{i|
+Mom's Bottle of Pills}}
+ | 102
+ | {{Bag of crafting recipe|8|8|8|8|8|8|8|1}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|15|22}}
+ | {{Bag of crafting recipe|8|8|1|1|12|12|12|21}}
+ | {{Bag of crafting recipe|1|1|1|1|12|15|15|2}}
+ |-
+ | {{i|
+The D6}}
+ | 105
+ | {{Bag of crafting recipe|2|2|2|9|22|22|22|22}}
+ | {{Bag of crafting recipe|2|2|2|2|9|9|22|22}}
+ | {{Bag of crafting recipe|1|15|15|15|9|9|22|11}}
+ | {{Bag of crafting recipe|1|12|15|2|2|2|9|5}}
+ |-
+ | {{i|
+The Pinking Shears}}
+ | 107
+ | {{Bag of crafting recipe|12|12|15|15|2|9|9|21}}
+ | {{Bag of crafting recipe|8|12|15|2|2|9|22|22}}
+ | {{Bag of crafting recipe|12|12|12|2|2|9|9|9}}
+ | {{Bag of crafting recipe|12|12|12|12|12|12|2|10}}
+ |-
+ | {{i|
+The Bean}}
+ | 111
+ | {{Bag of crafting recipe|1|1|1|12|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|8|8|1|12|22|22}}
+ | {{Bag of crafting recipe|8|8|8|1|21|21|21|21}}
+ | {{Bag of crafting recipe|8|8|8|8|8|8|15|16}}
+ |-
+ | {{i|
+Monster Manual}}
+ | 123
+ | {{Bag of crafting recipe|8|8|1|1|1|12|15|15}}
+ | {{Bag of crafting recipe|8|1|1|12|12|12|15|21}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|5}}
+ | {{Bag of crafting recipe|8|8|1|12|12|15|15|3}}
+ |-
+ | {{i|
+Dead Sea Scrolls}}
+ | 124
+ | {{Bag of crafting recipe|1|1|12|12|15|15|15|21}}
+ | {{Bag of crafting recipe|1|12|12|12|12|15|15|2}}
+ | {{Bag of crafting recipe|8|8|1|15|15|9|21|22}}
+ | {{Bag of crafting recipe|1|12|12|15|15|9|22|22}}
+ |-
+ | {{i|
+Razor Blade}}
+ | 126
+ | {{Bag of crafting recipe|8|1|1|1|12|15|2|3}}
+ | {{Bag of crafting recipe|8|8|1|1|1|22|22|3}}
+ | {{Bag of crafting recipe|8|1|12|12|12|21|22|3}}
+ | {{Bag of crafting recipe|8|1|12|12|15|2|21|3}}
+ |-
+ | {{i|
+Forget Me Now}}
+ | 127
+ | {{Bag of crafting recipe|8|8|12|15|15|15|2|11}}
+ | {{Bag of crafting recipe|12|12|12|12|12|12|9|14}}
+ | {{Bag of crafting recipe|8|8|1|1|1|2|2|11}}
+ | {{Bag of crafting recipe|8|1|12|12|12|2|2|23}}
+ |-
+ | {{i|
+Guppy's Paw}}
+ | 133
+ | {{Bag of crafting recipe|8|8|15|2|2|2|2|3}}
+ | {{Bag of crafting recipe|1|12|15|2|2|9|21|7}}
+ | {{Bag of crafting recipe|1|12|12|2|2|9|9|3}}
+ | {{Bag of crafting recipe|1|15|15|2|9|9|9|7}}
+ |-
+ | {{i|
+Best Friend}}
+ | 136
+ | {{Bag of crafting recipe|8|8|8|1|1|12|22|22}}
+ | {{Bag of crafting recipe|8|8|1|1|1|12|9|21}}
+ | {{Bag of crafting recipe|8|8|1|1|12|2|2|2}}
+ | {{Bag of crafting recipe|1|1|1|12|12|9|21|21}}
+ |-
+ | {{i|
+Remote Detonator}}
+ | 137
+ | {{Bag of crafting recipe|8|1|15|15|15|15|15|15}}
+ | {{Bag of crafting recipe|1|12|12|12|12|12|12|15}}
+ | {{Bag of crafting recipe|1|1|1|12|12|15|15|15}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|12|22}}
+ |-
+ | {{i|
+Guppy's Head}}
+ | 145
+ | {{Bag of crafting recipe|8|8|12|2|2|2|9|7}}
+ | {{Bag of crafting recipe|8|8|1|2|2|2|2|7}}
+ | {{Bag of crafting recipe|12|2|2|9|9|9|22|3}}
+ | {{Bag of crafting recipe|15|2|2|22|22|22|22|7}}
+ |-
+ | {{i|
+Prayer Card}}
+ | 146
+ | {{Bag of crafting recipe|8|8|12|12|2|2|2|21}}
+ | {{Bag of crafting recipe|1|1|1|2|2|2|9|22}}
+ | {{Bag of crafting recipe|12|12|9|9|9|22|22|22}}
+ | {{Bag of crafting recipe|12|2|2|2|2|2|9|22}}
+ |-
+ | {{i|
+Notched Axe}}
+ | 147
+ | {{Bag of crafting recipe|1|1|1|12|12|12|12|12}}
+ | {{Bag of crafting recipe|8|8|1|1|1|12|12|22}}
+ | {{Bag of crafting recipe|8|8|1|1|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|8|1|15|22|22|22}}
+ |-
+ | {{i|
+Crack the Sky}}
+ | 160
+ | {{Bag of crafting recipe|8|8|1|15|15|15|9|22}}
+ | {{Bag of crafting recipe|1|1|15|15|15|15|22|22}}
+ | {{Bag of crafting recipe|8|8|1|12|15|9|9|22}}
+ | {{Bag of crafting recipe|8|15|15|15|15|9|9|21}}
+ |-
+ | {{i|
+The Candle}}
+ | 164
+ | {{Bag of crafting recipe|8|8|12|12|12|12|12|12}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|1|22}}
+ | {{Bag of crafting recipe|8|8|1|1|12|12|15|21}}
+ | {{Bag of crafting recipe|8|8|8|12|12|15|2|21}}
+ |-
+ | {{i|
+D20}}
+ | 166
+ | {{Bag of crafting recipe|8|8|8|8|12|12|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|15|15}}
+ | {{Bag of crafting recipe|12|12|12|12|12|12|2|21}}
+ | {{Bag of crafting recipe|8|1|1|12|12|2|2|21}}
+ |-
+ | {{i|
+Spider Butt}}
+ | 171
+ | {{Bag of crafting recipe|1|12|12|12|12|12|15|21}}
+ | {{Bag of crafting recipe|8|12|12|12|15|15|9|22}}
+ | {{Bag of crafting recipe|8|1|1|1|12|12|2|21}}
+ | {{Bag of crafting recipe|12|15|15|15|15|2|2|2}}
+ |-
+ | {{i|
+Dad's Key}}
+ | 175
+ | {{Bag of crafting recipe|8|8|1|12|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|12|12|12|12|2}}
+ | {{Bag of crafting recipe|8|8|1|1|1|1|1|22}}
+ | {{Bag of crafting recipe|8|8|8|8|12|15|21|21}}
+ |-
+ | {{i|
+Portable Slot}}
+ | 177
+ | {{Bag of crafting recipe|8|8|8|8|8|8|8|8}}
+ | {{Bag of crafting recipe|8|1|1|1|1|1|1|1}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|12|2}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|7}}
+ |-
+ | {{i|
+Blood Rights}}
+ | 186
+ | {{Bag of crafting recipe|8|8|8|8|12|9|22|22}}
+ | {{Bag of crafting recipe|1|1|1|15|9|22|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|15|10}}
+ | {{Bag of crafting recipe|1|1|1|12|12|12|15|18}}
+ |-
+ | {{i|
+Telepathy For Dummies}}
+ | 192
+ | {{Bag of crafting recipe|8|1|1|1|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|1|12|12|12|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|12|21|21|22}}
+ | {{Bag of crafting recipe|8|8|8|8|15|15|9|18}}
+ |-
+ | {{i|
+Clear Rune}}
+ | 263
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|6}}
+ | {{Bag of crafting recipe|1|1|12|12|12|15|15|6}}
+ | {{Bag of crafting recipe|8|8|1|1|1|15|9|6}}
+ | {{Bag of crafting recipe|8|8|1|12|15|15|9|6}}
+ |-
+ | {{i|
+How to Jump}}
+ | 282
+ | {{Bag of crafting recipe|1|1|1|1|1|1|12|12}}
+ | {{Bag of crafting recipe|1|1|1|1|12|12|9|22}}
+ | {{Bag of crafting recipe|8|1|1|12|2|9|9|21}}
+ | {{Bag of crafting recipe|8|8|1|2|9|9|21|21}}
+ |-
+ | {{i|
+D100}}
+ | 283
+ | {{Bag of crafting recipe|8|8|1|15|2|2|9|9}}
+ | {{Bag of crafting recipe|12|12|12|15|2|2|9|21}}
+ | {{Bag of crafting recipe|12|15|9|9|9|9|9|22}}
+ | {{Bag of crafting recipe|1|12|2|2|9|22|22|22}}
+ |-
+ | {{i|
+D4}}
+ | 284
+ | {{Bag of crafting recipe|1|1|12|12|2|2|2|21}}
+ | {{Bag of crafting recipe|12|12|12|15|2|2|21|21}}
+ | {{Bag of crafting recipe|12|15|2|9|9|9|9|21}}
+ | {{Bag of crafting recipe|15|2|2|2|2|2|2|2}}
+ |-
+ | {{i|
+D10}}
+ | 285
+ | {{Bag of crafting recipe|8|8|1|1|1|1|12|21}}
+ | {{Bag of crafting recipe|8|8|1|15|15|22|22|22}}
+ | {{Bag of crafting recipe|8|8|1|15|15|21|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|15|15|15|18}}
+ |-
+ | {{i|
+Blank Card}}
+ | 286
+ | {{Bag of crafting recipe|8|8|8|8|1|1|12|9}}
+ | {{Bag of crafting recipe|8|8|12|12|15|9|9|22}}
+ | {{Bag of crafting recipe|8|1|15|15|15|21|21|22}}
+ | {{Bag of crafting recipe|1|1|1|1|1|9|9|21}}
+ |-
+ | {{i|
+Book of Secrets}}
+ | 287
+ | {{Bag of crafting recipe|8|8|8|12|12|12|12|15}}
+ | {{Bag of crafting recipe|1|1|15|15|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|9|22}}
+ | {{Bag of crafting recipe|8|1|1|1|12|15|9|21}}
+ |-
+ | {{i|
+Box of Spiders}}
+ | 288
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|2}}
+ | {{Bag of crafting recipe|8|8|8|12|12|21|22|22}}
+ | {{Bag of crafting recipe|8|8|12|15|15|2|2|2}}
+ | {{Bag of crafting recipe|8|1|1|12|15|2|2|21}}
+ |-
+ | {{i|
+Red Candle}}
+ | 289
+ | {{Bag of crafting recipe|8|8|1|1|15|15|15|22}}
+ | {{Bag of crafting recipe|8|8|12|12|12|15|15|2}}
+ | {{Bag of crafting recipe|1|1|12|12|12|12|12|22}}
+ | {{Bag of crafting recipe|1|12|12|12|12|15|2|2}}
+ |-
+ | {{i|
+The Jar}}
+ | 290
+ | {{Bag of crafting recipe|8|8|8|8|1|1|1|12}}
+ | {{Bag of crafting recipe|1|1|1|1|1|15|15|2}}
+ | {{Bag of crafting recipe|8|8|8|15|15|15|9|22}}
+ | {{Bag of crafting recipe|8|8|8|1|1|12|2|9}}
+ |-
+ | {{i|
+Flush!}}
+ | 291
+ | {{Bag of crafting recipe|8|8|8|8|15|15|15|2}}
+ | {{Bag of crafting recipe|8|8|12|12|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|8|1|12|15|21|21}}
+ | {{Bag of crafting recipe|8|8|8|8|12|2|9|9}}
+ |-
+ | {{i|
+Satanic Bible}}
+ | 292
+ | {{Bag of crafting recipe|12|15|15|15|2|2|2|9}}
+ | {{Bag of crafting recipe|8|8|12|9|9|9|22|11}}
+ | {{Bag of crafting recipe|8|1|12|2|2|2|2|13}}
+ | {{Bag of crafting recipe|1|15|15|2|9|9|21|16}}
+ |-
+ | {{i|
+Butter Bean}}
+ | 294
+ | {{Bag of crafting recipe|1|1|1|1|12|15|15|9}}
+ | {{Bag of crafting recipe|1|1|1|1|1|12|15|21}}
+ | {{Bag of crafting recipe|1|1|1|12|21|21|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|8|12|16}}
+ |-
+ | {{i|
+Magic Fingers}}
+ | 295
+ | {{Bag of crafting recipe|8|1|1|12|12|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|15|9}}
+ | {{Bag of crafting recipe|8|8|8|12|12|12|15|21}}
+ | {{Bag of crafting recipe|8|8|1|1|12|15|15|22}}
+ |-
+ | {{i|
+Converter}}
+ | 296
+ | {{Bag of crafting recipe|8|8|8|8|8|1|15|21}}
+ | {{Bag of crafting recipe|1|1|1|1|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|1|12|12|12|9|21}}
+ | {{Bag of crafting recipe|8|8|12|12|12|9|21|22}}
+ |-
+ | {{i|
+Pandora's Box}}
+ | 297
+ | {{Bag of crafting recipe|8|1|1|1|1|1|1|15}}
+ | {{Bag of crafting recipe|1|1|1|1|12|12|12|12}}
+ | {{Bag of crafting recipe|8|8|12|12|12|12|12|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|9|22}}
+ |-
+ | {{i|
+Unicorn Stump}}
+ | 298
+ | {{Bag of crafting recipe|15|15|15|15|15|15|15|15}}
+ | {{Bag of crafting recipe|15|15|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|1|1|1|21|22|22}}
+ | {{Bag of crafting recipe|8|1|1|1|15|9|9|9}}
+ |-
+ | {{i|
+Isaac's Tears}}
+ | 323
+ | {{Bag of crafting recipe|8|8|8|12|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|8|8|1|1|9|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|9|9|22}}
+ | {{Bag of crafting recipe|1|1|1|1|1|1|15|16}}
+ |-
+ | {{i|
+Undefined}}
+ | 324
+ | {{Bag of crafting recipe|8|8|8|1|1|1|1|21}}
+ | {{Bag of crafting recipe|8|8|12|12|12|12|12|21}}
+ | {{Bag of crafting recipe|8|8|8|1|1|12|9|22}}
+ | {{Bag of crafting recipe|8|1|1|1|15|15|2|22}}
+ |-
+ | {{i|
+Scissors}}
+ | 325
+ | {{Bag of crafting recipe|8|8|1|12|12|15|21|21}}
+ | {{Bag of crafting recipe|8|8|8|8|15|9|9|22}}
+ | {{Bag of crafting recipe|8|1|1|1|12|2|21|21}}
+ | {{Bag of crafting recipe|1|1|1|1|1|9|21|21}}
+ |-
+ | {{i|
+Breath of Life}}
+ | 326
+ | {{Bag of crafting recipe|8|8|12|12|12|12|15|4}}
+ | {{Bag of crafting recipe|1|1|1|1|1|12|9|4}}
+ | {{Bag of crafting recipe|8|1|1|12|15|9|9|4}}
+ | {{Bag of crafting recipe|8|8|8|1|2|21|22|4}}
+ |-
+ | {{i|
+The Boomerang}}
+ | 338
+ | {{Bag of crafting recipe|8|8|8|8|1|1|12|15}}
+ | {{Bag of crafting recipe|1|1|12|15|15|15|15|21}}
+ | {{Bag of crafting recipe|8|8|12|12|12|15|21|22}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|2|21}}
+ |-
+ | {{i|
+Diplopia}}
+ | 347
+ | {{Bag of crafting recipe|8|12|12|15|15|2|2|22}}
+ | {{Bag of crafting recipe|8|8|12|15|2|2|9|22}}
+ | {{Bag of crafting recipe|8|1|12|2|9|9|9|22}}
+ | {{Bag of crafting recipe|8|12|2|2|2|2|2|21}}
+ |-
+ | {{i|
+Placebo}}
+ | 348
+ | {{Bag of crafting recipe|12|12|12|12|12|15|21|21}}
+ | {{Bag of crafting recipe|12|12|15|15|15|15|9|9}}
+ | {{Bag of crafting recipe|8|8|8|8|1|21|21|22}}
+ | {{Bag of crafting recipe|8|8|12|12|12|2|9|21}}
+ |-
+ | {{i|
+Wooden Nickel}}
+ | 349
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|2|22}}
+ | {{Bag of crafting recipe|8|8|8|8|12|15|2|21}}
+ | {{Bag of crafting recipe|8|8|8|12|12|12|2|2}}
+ |-
+ | {{i|
+Mega Bean}}
+ | 351
+ | {{Bag of crafting recipe|8|8|1|1|1|15|15|9}}
+ | {{Bag of crafting recipe|1|1|12|12|12|15|15|9}}
+ | {{Bag of crafting recipe|12|12|12|12|12|15|22|22}}
+ | {{Bag of crafting recipe|1|1|1|12|12|15|9|21}}
+ |-
+ | {{i|
+Glass Cannon}}
+ | 352
+ | {{Bag of crafting recipe|8|8|8|8|1|15|15|2}}
+ | {{Bag of crafting recipe|8|8|12|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|1|12|12|12|15|2|2}}
+ | {{Bag of crafting recipe|12|12|12|15|15|15|9|9}}
+ |-
+ | {{i|
+Box of Friends}}
+ | 357
+ | {{Bag of crafting recipe|8|8|12|12|15|15|2|22}}
+ | {{Bag of crafting recipe|8|8|1|12|12|15|2|9}}
+ | {{Bag of crafting recipe|8|1|1|12|15|15|2|21}}
+ | {{Bag of crafting recipe|8|1|1|15|15|15|21|21}}
+ |-
+ | {{i|
+Friendly Ball}}
+ | 382
+ | {{Bag of crafting recipe|8|8|1|1|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|15|15|15|9|9|9}}
+ | {{Bag of crafting recipe|8|8|8|8|21|21|21|21}}
+ | {{Bag of crafting recipe|8|8|1|12|2|9|21|22}}
+ |-
+ | {{i|
+Tear Detonator}}
+ | 383
+ | {{Bag of crafting recipe|8|8|8|8|1|12|15|15}}
+ | {{Bag of crafting recipe|12|15|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|1|1|1|12|12|15|2|21}}
+ | {{Bag of crafting recipe|1|1|1|15|15|15|2|22}}
+ |-
+ | {{i|
+D12}}
+ | 386
+ | {{Bag of crafting recipe|8|1|1|1|1|1|15|2}}
+ | {{Bag of crafting recipe|8|1|1|1|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|22|22}}
+ | {{Bag of crafting recipe|8|1|1|1|1|15|15|10}}
+ |-
+ | {{i|
+Ventricle Razor}}
+ | 396
+ | {{Bag of crafting recipe|12|12|12|12|12|15|15|15}}
+ | {{Bag of crafting recipe|8|8|1|12|12|15|15|21}}
+ | {{Bag of crafting recipe|12|12|12|15|15|15|15|2}}
+ | {{Bag of crafting recipe|15|15|15|15|15|15|15|21}}
+ |-
+ | {{i|
+D8}}
+ | 406
+ | {{Bag of crafting recipe|8|8|8|8|12|12|12|21}}
+ | {{Bag of crafting recipe|1|1|12|12|12|15|15|21}}
+ | {{Bag of crafting recipe|12|12|12|12|12|12|12|2}}
+ | {{Bag of crafting recipe|8|12|15|15|15|15|2|2}}
+ |-
+ | {{i|
+Teleport 2.0}}
+ | 419
+ | {{Bag of crafting recipe|1|12|12|12|12|12|15|9}}
+ | {{Bag of crafting recipe|8|8|15|15|15|15|21|21}}
+ | {{Bag of crafting recipe|8|8|12|12|12|15|9|9}}
+ | {{Bag of crafting recipe|8|1|1|12|12|12|22|22}}
+ |-
+ | {{i|
+Kidney Bean}}
+ | 421
+ | {{Bag of crafting recipe|8|8|8|8|8|1|1|9}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|15|9}}
+ | {{Bag of crafting recipe|1|1|1|1|12|12|15|9}}
+ | {{Bag of crafting recipe|8|1|1|1|2|21|22|22}}
+ |-
+ | {{i|
+Glowing Hour Glass}}
+ | 422
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|15}}
+ | {{Bag of crafting recipe|1|1|12|12|12|15|15|15}}
+ | {{Bag of crafting recipe|8|1|12|12|12|12|15|9}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|21|22}}
+ |-
+ | {{i|
+Mine Crafter}}
+ | 427
+ | {{Bag of crafting recipe|8|1|15|15|15|15|15|2}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|9|9}}
+ | {{Bag of crafting recipe|8|8|1|12|15|21|22|22}}
+ | {{Bag of crafting recipe|12|12|12|12|12|9|9|21}}
+ |-
+ | {{i|
+Jar of Flies}}
+ | 434
+ | {{Bag of crafting recipe|8|1|1|1|1|1|1|2}}
+ | {{Bag of crafting recipe|1|1|1|1|1|1|1|21}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|2|22}}
+ | {{Bag of crafting recipe|8|8|12|12|15|2|2|21}}
+ |-
+ | {{i|
+D7}}
+ | 437
+ | {{Bag of crafting recipe|8|8|8|1|1|12|2|21}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|21|21}}
+ | {{Bag of crafting recipe|8|1|1|1|15|15|9|21}}
+ | {{Bag of crafting recipe|8|8|8|1|15|2|2|2}}
+ |-
+ | {{i|
+Mom's Box}}
+ | 439
+ | {{Bag of crafting recipe|8|1|1|12|15|2|2|2}}
+ | {{Bag of crafting recipe|8|12|2|2|9|9|21|21}}
+ | {{Bag of crafting recipe|1|12|2|2|2|2|21|21}}
+ | {{Bag of crafting recipe|1|15|2|2|2|9|21|22}}
+ |-
+ | {{i|
+Mega Blast}}
+ | 441
+ | {{Bag of crafting recipe|1|15|9|9|9|9|3|11}}
+ | {{Bag of crafting recipe|8|8|15|2|2|3|11|11}}
+ | {{Bag of crafting recipe|8|15|15|2|22|3|11|16}}
+ | {{Bag of crafting recipe|12|12|12|9|21|3|11|23}}
+ |-
+ | {{i|
+Plan C}}
+ | 475
+ | {{Bag of crafting recipe|8|1|1|1|12|15|2|22}}
+ | {{Bag of crafting recipe|8|1|1|12|21|21|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|4}}
+ | {{Bag of crafting recipe|1|1|12|15|15|15|15|3}}
+ |-
+ | {{i|
+D1}}
+ | 476
+ | {{Bag of crafting recipe|8|1|1|1|1|1|9|22}}
+ | {{Bag of crafting recipe|8|12|15|15|15|15|9|9}}
+ | {{Bag of crafting recipe|8|8|12|15|15|2|2|9}}
+ | {{Bag of crafting recipe|12|15|15|15|15|9|9|9}}
+ |-
+ | {{i|
+Void}}
+ | 477
+ | {{Bag of crafting recipe|15|2|2|2|2|9|21|4}}
+ | {{Bag of crafting recipe|12|12|12|2|2|2|3|6}}
+ | {{Bag of crafting recipe|8|12|2|2|2|21|4|11}}
+ | {{Bag of crafting recipe|1|1|2|2|9|9|3|11}}
+ |-
+ | {{i|
+Pause}}
+ | 478
+ | {{Bag of crafting recipe|12|12|15|15|15|15|15|2}}
+ | {{Bag of crafting recipe|1|1|1|1|1|15|15|21}}
+ | {{Bag of crafting recipe|1|1|12|15|15|9|9|9}}
+ | {{Bag of crafting recipe|1|1|12|12|15|2|9|22}}
+ |-
+ | {{i|
+Smelter}}
+ | 479
+ | {{Bag of crafting recipe|12|12|15|15|2|9|22|22}}
+ | {{Bag of crafting recipe|12|12|12|15|2|9|21|22}}
+ | {{Bag of crafting recipe|1|12|12|15|2|2|21|22}}
+ | {{Bag of crafting recipe|8|2|9|9|22|22|22|22}}
+ |-
+ | {{i|
+Compost}}
+ | 480
+ | {{Bag of crafting recipe|1|1|1|1|1|1|12|9}}
+ | {{Bag of crafting recipe|8|1|1|1|1|1|2|21}}
+ | {{Bag of crafting recipe|8|12|12|12|12|2|2|9}}
+ | {{Bag of crafting recipe|1|1|1|1|15|21|21|21}}
+ |-
+ | {{i|
+Dataminer}}
+ | 481
+ | {{Bag of crafting recipe|8|8|1|1|12|12|15|15}}
+ | {{Bag of crafting recipe|8|1|12|12|15|15|15|22}}
+ | {{Bag of crafting recipe|8|8|8|1|12|12|2|21}}
+ | {{Bag of crafting recipe|8|8|12|15|15|15|22|22}}
+ |-
+ | {{i|
+Clicker}}
+ | 482
+ | {{Bag of crafting recipe|8|1|1|1|12|12|15|22}}
+ | {{Bag of crafting recipe|8|8|8|12|15|15|9|21}}
+ | {{Bag of crafting recipe|8|8|1|1|12|15|9|9}}
+ | {{Bag of crafting recipe|8|8|1|12|9|22|22|22}}
+ |-
+ | {{i|
+Mama Mega!}}
+ | 483
+ | {{Bag of crafting recipe|12|12|15|15|15|9|9|9}}
+ | {{Bag of crafting recipe|8|15|2|2|9|22|22|22}}
+ | {{Bag of crafting recipe|1|1|2|9|9|9|9|21}}
+ | {{Bag of crafting recipe|8|12|12|12|15|15|2|14}}
+ |-
+ | {{i|
+Crooked Penny}}
+ | 485
+ | {{Bag of crafting recipe|8|8|8|8|1|1|12|12}}
+ | {{Bag of crafting recipe|8|1|1|1|1|12|15|15}}
+ | {{Bag of crafting recipe|8|1|12|12|12|12|15|2}}
+ | {{Bag of crafting recipe|8|1|1|1|1|12|2|22}}
+ |-
+ | {{i|
+Dull Razor}}
+ | 486
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|22}}
+ | {{Bag of crafting recipe|12|15|15|15|15|15|15|21}}
+ | {{Bag of crafting recipe|8|1|1|1|12|12|9|21}}
+ | {{Bag of crafting recipe|8|1|1|1|15|15|21|22}}
+ |-
+ | {{i|
+Potato Peeler}}
+ | 487
+ | {{Bag of crafting recipe|8|12|15|2|9|9|9|9}}
+ | {{Bag of crafting recipe|8|15|15|2|2|9|21|22}}
+ | {{Bag of crafting recipe|1|15|2|2|2|22|22|22}}
+ | {{Bag of crafting recipe|2|2|2|2|2|2|21|22}}
+ |-
+ | {{i|
+Metronome}}
+ | 488
+ | {{Bag of crafting recipe|1|1|1|1|1|1|1|9}}
+ | {{Bag of crafting recipe|1|1|1|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|8|15|15|15|21|21}}
+ | {{Bag of crafting recipe|8|8|8|12|9|21|21|21}}
+ |-
+ | {{i|
+D infinity}}
+ | 489
+ | {{Bag of crafting recipe|8|12|15|15|15|15|15|6}}
+ | {{Bag of crafting recipe|8|8|8|1|1|1|2|6}}
+ | {{Bag of crafting recipe|8|1|15|15|15|15|21|6}}
+ | {{Bag of crafting recipe|8|1|1|1|1|15|22|6}}
+ |-
+ | {{i|
+Eden's Soul}}
+ | 490
+ | {{Bag of crafting recipe|1|12|12|12|2|2|2|4}}
+ | {{Bag of crafting recipe|8|12|15|2|2|9|9|4}}
+ | {{Bag of crafting recipe|1|2|2|2|2|9|22|4}}
+ | {{Bag of crafting recipe|2|2|2|2|2|2|21|4}}
+ |-
+ | {{i|
+Brown Nugget}}
+ | 504
+ | {{Bag of crafting recipe|8|1|12|15|15|21|21|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|8|12|13}}
+ | {{Bag of crafting recipe|8|8|8|1|12|15|22|19}}
+ | {{Bag of crafting recipe|8|12|12|12|15|15|21|7}}
+ |-
+ | {{i|
+Sharp Straw}}
+ | 507
+ | {{Bag of crafting recipe|8|8|12|12|12|12|21|21}}
+ | {{Bag of crafting recipe|8|1|1|15|15|15|2|22}}
+ | {{Bag of crafting recipe|1|12|12|15|15|15|22|22}}
+ | {{Bag of crafting recipe|8|1|1|1|15|2|9|22}}
+ |-
+ | {{i|
+Delirious}}
+ | 510
+ | {{Bag of crafting recipe|8|8|8|8|8|8|8|4}}
+ | {{Bag of crafting recipe|8|8|8|8|12|15|9|4}}
+ | {{Bag of crafting recipe|8|8|1|12|12|15|9|4}}
+ | {{Bag of crafting recipe|1|1|1|1|15|15|9|4}}
+ |-
+ | {{i|
+Black Hole}}
+ | 512
+ | {{Bag of crafting recipe|8|8|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|1|1|1|12|9|22}}
+ | {{Bag of crafting recipe|12|15|15|15|15|15|9|21}}
+ | {{Bag of crafting recipe|8|8|8|8|8|2|2|9}}
+ |-
+ | {{i|
+Mystery Gift}}
+ | 515
+ | {{Bag of crafting recipe|12|12|15|15|2|2|2|9}}
+ | {{Bag of crafting recipe|8|12|12|2|2|9|21|22}}
+ | {{Bag of crafting recipe|1|1|15|2|2|2|21|21}}
+ | {{Bag of crafting recipe|1|12|2|2|9|9|9|22}}
+ |-
+ | {{i|
+Sprinkler}}
+ | 516
+ | {{Bag of crafting recipe|1|12|12|12|12|12|15|22}}
+ | {{Bag of crafting recipe|8|8|8|1|12|9|9|22}}
+ | {{Bag of crafting recipe|8|8|8|1|1|21|21|22}}
+ | {{Bag of crafting recipe|1|15|15|15|15|2|22|22}}
+ |-
+ | {{i|
+Coupon}}
+ | 521
+ | {{Bag of crafting recipe|8|8|1|1|1|12|12|15}}
+ | {{Bag of crafting recipe|1|1|12|12|12|12|15|9}}
+ | {{Bag of crafting recipe|1|1|12|12|12|15|15|2}}
+ | {{Bag of crafting recipe|8|8|8|1|12|2|21|21}}
+ |-
+ | {{i|
+Telekinesis}}
+ | 522
+ | {{Bag of crafting recipe|8|12|12|12|15|15|2|9}}
+ | {{Bag of crafting recipe|8|1|12|12|15|15|2|21}}
+ | {{Bag of crafting recipe|1|1|1|1|1|15|2|2}}
+ | {{Bag of crafting recipe|8|1|1|12|12|2|22|22}}
+ |-
+ | {{i|
+Moving Box}}
+ | 523
+ | {{Bag of crafting recipe|8|1|12|12|12|15|15|15}}
+ | {{Bag of crafting recipe|8|1|1|12|12|12|12|12}}
+ | {{Bag of crafting recipe|1|1|1|1|1|12|12|15}}
+ | {{Bag of crafting recipe|1|1|12|15|15|15|15|9}}
+ |-
+ | {{i|
+Mr. ME!}}
+ | 527
+ | {{Bag of crafting recipe|1|15|15|15|2|9|9|21}}
+ | {{Bag of crafting recipe|8|8|1|2|2|2|9|21}}
+ | {{Bag of crafting recipe|8|12|12|9|9|9|9|21}}
+ | {{Bag of crafting recipe|1|1|12|2|9|9|9|21}}
+ |-
+ | {{i|
+Sacrificial Altar}}
+ | 536
+ | {{Bag of crafting recipe|8|8|8|8|12|12|12|3}}
+ | {{Bag of crafting recipe|8|8|8|1|1|1|12|7}}
+ | {{Bag of crafting recipe|8|8|8|15|15|15|15|7}}
+ | {{Bag of crafting recipe|8|8|12|12|12|15|15|3}}
+ |-
+ | {{i|
+Book of the Dead}}
+ | 545
+ | {{Bag of crafting recipe|8|8|15|15|15|15|15|22}}
+ | {{Bag of crafting recipe|8|8|15|15|15|15|21|22}}
+ | {{Bag of crafting recipe|8|1|1|15|15|15|9|9}}
+ | {{Bag of crafting recipe|8|1|12|15|15|15|21|22}}
+ |-
+ | {{i|
+Golden Razor}}
+ | 555
+ | {{Bag of crafting recipe|8|1|1|1|1|1|15|21}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|2|9}}
+ | {{Bag of crafting recipe|8|12|12|15|15|15|9|9}}
+ | {{Bag of crafting recipe|8|1|1|15|15|15|2|21}}
+ |-
+ | {{i|
+Sulfur}}
+ | 556
+ | {{Bag of crafting recipe|8|8|8|8|1|12|12|3}}
+ | {{Bag of crafting recipe|8|8|1|1|12|15|2|3}}
+ | {{Bag of crafting recipe|1|12|15|15|15|15|21|3}}
+ | {{Bag of crafting recipe|12|12|12|12|12|15|2|3}}
+ |-
+ | {{i|
+Fortune Cookie}}
+ | 557
+ | {{Bag of crafting recipe|15|15|15|15|15|15|2|9}}
+ | {{Bag of crafting recipe|8|8|8|12|12|9|9|9}}
+ | {{Bag of crafting recipe|8|8|15|15|2|2|9|21}}
+ | {{Bag of crafting recipe|1|1|1|1|9|21|22|22}}
+ |-
+ | {{i|
+Damocles}}
+ | 577
+ | {{Bag of crafting recipe|8|8|1|1|1|12|2|3}}
+ | {{Bag of crafting recipe|8|8|1|1|1|12|9|3}}
+ | {{Bag of crafting recipe|8|8|1|1|12|12|22|3}}
+ | {{Bag of crafting recipe|8|8|1|1|12|21|22|3}}
+ |-
+ | {{i|
+Free Lemonade}}
+ | 578
+ | {{Bag of crafting recipe|1|1|1|12|12|12|15|15}}
+ | {{Bag of crafting recipe|1|1|12|12|12|12|9|21}}
+ | {{Bag of crafting recipe|8|1|15|15|15|2|9|22}}
+ | {{Bag of crafting recipe|1|1|12|12|12|21|21|22}}
+ |-
+ | {{i|
+Red Key}}
+ | 580
+ | {{Bag of crafting recipe|8|12|2|2|9|9|22|7}}
+ | {{Bag of crafting recipe|15|15|2|2|21|21|21|7}}
+ | {{Bag of crafting recipe|12|15|2|2|2|2|9|6}}
+ | {{Bag of crafting recipe|12|9|9|9|9|9|9|6}}
+ |-
+ | {{i|
+Wavy Cap}}
+ | 582
+ | {{Bag of crafting recipe|8|8|8|8|1|1|21|6}}
+ | {{Bag of crafting recipe|8|8|15|15|15|15|21|6}}
+ | {{Bag of crafting recipe|8|1|1|1|15|15|22|6}}
+ | {{Bag of crafting recipe|8|8|8|15|15|22|22|6}}
+ |-
+ | {{i|
+Alabaster Box}}
+ | 585
+ | {{Bag of crafting recipe|8|8|8|8|8|8|8|2}}
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|8|12|12|12|15|9}}
+ | {{Bag of crafting recipe|8|1|1|1|12|12|15|9}}
+ |-
+ | {{i|
+Mom's Bracelet}}
+ | 604
+ | {{Bag of crafting recipe|12|12|12|12|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|1|2}}
+ | {{Bag of crafting recipe|8|8|1|1|1|12|15|22}}
+ | {{Bag of crafting recipe|8|12|15|15|15|15|15|2}}
+ |-
+ | {{i|
+The Scooper}}
+ | 605
+ | {{Bag of crafting recipe|8|1|1|15|15|9|21|22}}
+ | {{Bag of crafting recipe|8|1|15|15|22|22|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|8|1|12|13}}
+ | {{Bag of crafting recipe|8|8|8|8|1|12|12|7}}
+ |-
+ | {{i|
+Eternal D6}}
+ | 609
+ | {{Bag of crafting recipe|1|1|12|12|12|12|12|12}}
+ | {{Bag of crafting recipe|8|1|1|1|1|12|12|2}}
+ | {{Bag of crafting recipe|1|1|12|12|12|12|12|21}}
+ | {{Bag of crafting recipe|8|12|15|15|15|15|22|22}}
+ |-
+ | {{i|
+Larynx}}
+ | 611
+ | {{Bag of crafting recipe|8|15|15|15|15|15|15|21}}
+ | {{Bag of crafting recipe|8|1|1|12|12|12|12|9}}
+ | {{Bag of crafting recipe|1|12|12|12|12|12|12|22}}
+ | {{Bag of crafting recipe|8|8|1|12|15|15|2|21}}
+ |-
+ | {{i|
+Genesis}}
+ | 622
+ | {{Bag of crafting recipe|8|8|1|1|15|15|15|4}}
+ | {{Bag of crafting recipe|8|8|8|8|8|15|2|4}}
+ | {{Bag of crafting recipe|8|8|1|12|12|12|2|4}}
+ | {{Bag of crafting recipe|1|1|1|1|1|1|9|4}}
+ |-
+ | {{i|
+Sharp Key}}
+ | 623
+ | {{Bag of crafting recipe|8|1|1|15|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|8|15|15|9|22}}
+ | {{Bag of crafting recipe|8|8|8|8|1|15|9|22}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|9|9}}
+ |-
+ | {{i|
+Mega Mush}}
+ | 625
+ | {{Bag of crafting recipe|15|2|2|2|2|9|21|6}}
+ | {{Bag of crafting recipe|15|2|2|2|2|2|22|16}}
+ | {{Bag of crafting recipe|8|8|8|12|15|9|11|16}}
+ | {{Bag of crafting recipe|8|12|2|2|2|2|6|10}}
+ |-
+ | {{i|
+Death Certificate}}
+ | 628
+ | {{Bag of crafting recipe|12|12|12|2|2|2|6|11}}
+ | {{Bag of crafting recipe|1|12|15|2|2|22|6|11}}
+ | {{Bag of crafting recipe|12|15|2|2|2|21|6|6}}
+ | {{Bag of crafting recipe|12|12|2|2|2|2|6|23}}
+ |-
+ | {{i|
+Meat Cleaver}}
+ | 631
+ | {{Bag of crafting recipe|8|8|8|1|15|15|15|21}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|15|2}}
+ | {{Bag of crafting recipe|12|12|12|12|12|12|12|9}}
+ | {{Bag of crafting recipe|8|8|12|12|15|15|2|21}}
+ |-
+ | {{i|
+Stitches}}
+ | 635
+ | {{Bag of crafting recipe|1|1|1|1|1|12|15|15}}
+ | {{Bag of crafting recipe|8|1|12|12|12|12|12|9}}
+ | {{Bag of crafting recipe|1|12|15|15|15|15|15|22}}
+ | {{Bag of crafting recipe|8|8|1|1|12|9|9|21}}
+ |-
+ | {{i|
+R Key}}
+ | 636
+ | {{Bag of crafting recipe|12|15|15|2|2|2|6|13}}
+ | {{Bag of crafting recipe|8|15|2|2|2|2|6|16}}
+ | {{Bag of crafting recipe|8|12|2|2|2|9|6|11}}
+ | {{Bag of crafting recipe|12|12|2|2|22|22|6|11}}
+ |-
+ | {{i|
+Eraser}}
+ | 638
+ | {{Bag of crafting recipe|8|8|8|1|1|15|15|2}}
+ | {{Bag of crafting recipe|12|12|15|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|9|21}}
+ | {{Bag of crafting recipe|8|8|15|15|15|15|2|9}}
+ |-
+ | {{i|
+Yuck Heart}}
+ | 639
+ | {{Bag of crafting recipe|1|12|2|2|9|9|9|9}}
+ | {{Bag of crafting recipe|8|8|1|12|12|12|15|11}}
+ | {{Bag of crafting recipe|8|8|8|12|12|15|2|16}}
+ | {{Bag of crafting recipe|1|15|15|15|15|15|2|4}}
+ |-
+ | {{i|
+Urn of Souls}}
+ | 640
+ | {{Bag of crafting recipe|1|12|15|2|2|9|9|4}}
+ | {{Bag of crafting recipe|8|12|12|12|12|2|4|16}}
+ | {{Bag of crafting recipe|8|15|15|15|2|22|4|16}}
+ | {{Bag of crafting recipe|1|12|15|15|2|9|4|6}}
+ |-
+ | {{i|
+Magic Skin}}
+ | 642
+ | {{Bag of crafting recipe|8|8|8|12|12|12|15|2}}
+ | {{Bag of crafting recipe|1|12|12|15|15|2|2|9}}
+ | {{Bag of crafting recipe|8|8|15|21|22|22|22|22}}
+ | {{Bag of crafting recipe|1|1|1|2|9|9|22|22}}
+ |-
+ | {{i|
+Plum Flute}}
+ | 650
+ | {{Bag of crafting recipe|8|8|12|15|15|15|2|2}}
+ | {{Bag of crafting recipe|1|12|15|15|15|2|22|22}}
+ | {{Bag of crafting recipe|1|12|12|12|15|2|2|22}}
+ | {{Bag of crafting recipe|8|12|12|15|9|21|22|22}}
+ |-
+ | {{i|
+Vade Retro}}
+ | 653
+ | {{Bag of crafting recipe|8|15|2|2|9|9|9|4}}
+ | {{Bag of crafting recipe|1|15|2|2|2|2|2|4}}
+ | {{Bag of crafting recipe|12|2|2|2|2|21|21|4}}
+ | {{Bag of crafting recipe|12|2|2|9|9|9|9|4}}
+ |-
+ | {{i|
+Spin to Win}}
+ | 655
+ | {{Bag of crafting recipe|8|8|1|1|1|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|1|12|12|21|21}}
+ | {{Bag of crafting recipe|8|1|1|12|15|15|2|22}}
+ | {{Bag of crafting recipe|1|12|15|15|15|15|9|21}}
+ |-
+ | {{i|
+Jar of Wisps}}
+ | 685
+ | {{Bag of crafting recipe|8|1|12|12|12|12|15|4}}
+ | {{Bag of crafting recipe|8|8|8|8|12|15|2|4}}
+ | {{Bag of crafting recipe|8|8|8|15|15|15|22|4}}
+ | {{Bag of crafting recipe|8|8|8|1|1|15|21|4}}
+ |-
+ | {{i|
+Friend Finder}}
+ | 687
+ | {{Bag of crafting recipe|15|2|9|9|9|21|21|21}}
+ | {{Bag of crafting recipe|8|12|12|12|12|12|9|4}}
+ | {{Bag of crafting recipe|15|15|15|15|15|15|21|11}}
+ | {{Bag of crafting recipe|12|12|12|15|15|2|9|10}}
+ |-
+ | {{i|
+Esau Jr.}}
+ | 703
+ | {{Bag of crafting recipe|8|8|8|8|1|1|15|2}}
+ | {{Bag of crafting recipe|12|12|15|15|15|2|22|22}}
+ | {{Bag of crafting recipe|8|8|8|1|9|21|21|21}}
+ | {{Bag of crafting recipe|8|12|2|2|2|2|9|9}}
+ |-
+ | {{i|
+Berserk!}}
+ | 704
+ | {{Bag of crafting recipe|8|1|12|2|2|2|2|3}}
+ | {{Bag of crafting recipe|1|2|9|9|9|9|9|3}}
+ | {{Bag of crafting recipe|2|9|9|9|9|22|22|3}}
+ | {{Bag of crafting recipe|2|2|2|21|21|21|22|3}}
+ |-
+ | {{i|
+Dark Arts}}
+ | 705
+ | {{Bag of crafting recipe|12|15|15|15|15|15|9|3}}
+ | {{Bag of crafting recipe|8|8|8|8|2|9|9|3}}
+ | {{Bag of crafting recipe|8|8|1|1|9|21|22|3}}
+ | {{Bag of crafting recipe|8|12|15|15|9|9|21|3}}
+ |-
+ | {{i|
+Abyss}}
+ | 706
+ | {{Bag of crafting recipe|12|12|2|2|2|9|3|23}}
+ | {{Bag of crafting recipe|12|15|2|2|9|9|3|16}}
+ | {{Bag of crafting recipe|8|2|2|2|9|22|3|3}}
+ | {{Bag of crafting recipe|12|12|15|15|15|3|10|11}}
+ |-
+ | {{i|
+Suplex!}}
+ | 709
+ | {{Bag of crafting recipe|15|15|15|2|2|21|21|22}}
+ | {{Bag of crafting recipe|15|15|2|2|2|2|2|2}}
+ | {{Bag of crafting recipe|12|12|2|2|21|21|22|22}}
+ | {{Bag of crafting recipe|8|8|8|8|12|2|2|14}}
+ |-
+ | {{i|
+Lemegeton}}
+ | 712
+ | {{Bag of crafting recipe|8|1|2|2|2|9|22|3}}
+ | {{Bag of crafting recipe|12|12|15|15|15|21|3|11}}
+ | {{Bag of crafting recipe|8|8|1|12|9|9|3|11}}
+ | {{Bag of crafting recipe|1|1|1|12|2|9|3|11}}
+ |-
+ | {{i|
+Keeper's Box}}
+ | 719
+ | {{Bag of crafting recipe|12|2|9|9|9|9|22|22}}
+ | {{Bag of crafting recipe|8|8|8|12|12|2|2|6}}
+ | {{Bag of crafting recipe|8|8|12|12|12|2|2|3}}
+ | {{Bag of crafting recipe|8|1|12|12|15|2|21|16}}
+ |-
+ | {{i|
+Everything Jar}}
+ | 720
+ | {{Bag of crafting recipe|8|1|1|12|15|15|15|21}}
+ | {{Bag of crafting recipe|1|12|12|15|15|15|15|2}}
+ | {{Bag of crafting recipe|8|8|1|1|12|15|21|21}}
+ | {{Bag of crafting recipe|8|1|1|12|12|12|9|21}}
+ |-
+ | {{i|
+Anima Sola}}
+ | 722
+ | {{Bag of crafting recipe|8|1|1|12|15|15|15|2}}
+ | {{Bag of crafting recipe|8|8|8|12|15|9|9|9}}
+ | {{Bag of crafting recipe|8|1|1|1|2|2|9|22}}
+ | {{Bag of crafting recipe|1|1|1|1|2|9|9|22}}
+ |-
+ | {{i|
+Spindown Dice}}
+ | 723
+ | {{Bag of crafting recipe|8|1|12|2|2|9|9|14}}
+ | {{Bag of crafting recipe|12|2|2|2|2|2|2|6}}
+ | {{Bag of crafting recipe|15|2|2|2|2|9|9|6}}
+ | {{Bag of crafting recipe|8|8|1|12|2|2|16|19}}
+ |-
+ | {{i|
+Gello}}
+ | 728
+ | {{Bag of crafting recipe|8|1|12|12|12|12|2|22}}
+ | {{Bag of crafting recipe|1|12|12|15|15|15|21|21}}
+ | {{Bag of crafting recipe|8|1|15|15|15|22|22|22}}
+ | {{Bag of crafting recipe|8|12|15|15|15|22|22|22}}
+ |-
+ | {{i|
+Decap Attack}}
+ | 729
+ | {{Bag of crafting recipe|8|8|8|8|15|15|15|15}}
+ | {{Bag of crafting recipe|8|8|8|15|15|15|15|9}}
+ | {{Bag of crafting recipe|8|8|12|15|15|15|21|22}}
+ | {{Bag of crafting recipe|8|8|1|12|15|15|9|22}}
+ |}
